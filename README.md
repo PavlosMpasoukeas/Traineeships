@@ -1,37 +1,45 @@
 # Traineeships
-Internship Management System
+🎓 Traineeship Selection System
 
-Control who is eligible for internship and manage student data
+Complete and functional system for internship eligibility, evaluation, and student management.
 
 📌 Description
 
-This project allows the management and control of who can participate in an internship (praktiki) and who is not eligible.
-It uses SQL databases to store and process all related data and runs locally on localhost:8080.
+This project is a fully functional system designed to manage and evaluate students for university internships (πρακτική άσκηση).
+It provides automated processes that determine:
 
-⚙️ Features
+Which students are eligible for internship
 
-Check internship eligibility
+How each student is evaluated and graded
 
-Store and manage student information
+Which criteria affect acceptance or rejection
 
-Use SQL database for persistence
+How student data is stored and processed
 
-Local deployment on port 8080
+The application uses SQL databases for secure storage and retrieves all necessary data dynamically.
+It runs locally on localhost:8080.
 
-Simple and clean UI (if applicable)
+⭐ Key Features
+✔ Internship Eligibility
 
-🗄 Database
+The system analyzes student information and academic performance in order to decide whether a student qualifies for internship.
 
-SQL-based storage
+✔ Student Evaluation / Grading
 
-Local server connection
+A scoring mechanism allows the system to compute a student's grade or eligibility score based on selected criteria (e.g., GPA, completed courses, requirements).
 
-Tables for users/students/criteria (add more details if needed)
+✔ User & Data Management
 
-🚀 How to Run
+Add, edit, and review student profiles
 
-Clone the repository
+Track academic progress
 
-Start the local backend
+Store data safely in a SQL database
 
-Open the app at:
+✔ Fully functional backend with SQL
+
+Uses relational database tables
+
+Supports queries for selection, updates, filtering
+
+Runs on local database environment
