@@ -20,6 +20,7 @@ The application uses SQL databases for secure storage and retrieves all necessar
 It runs locally on localhost:8080.
 
 ⭐ Key Features
+
 ✔ Internship Eligibility
 
 The system analyzes student information and academic performance in order to decide whether a student qualifies for internship.
